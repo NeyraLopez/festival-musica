@@ -1,0 +1,4 @@
+@forward 'normalize';//@use (para acceder a una variable)evita tener css duplicados
+@forward 'variables';//@forward para acceder a todo el documento
+@forward 'globales';
+@forward 'mixins';
